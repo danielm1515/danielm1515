@@ -1,18 +1,13 @@
-👋 Hi there! I'm Daniel, a practical engineer with a passion for software development. With over 7 years of experience in the high-tech industry, I've honed my skills as a versatile full stack developer, specializing in various technologies such as:
+👋 Hi there! I'm Daniel Mamre, a Senior Software Engineer and AI Specialist with over 10 years of experience in the high-tech industry.
 
-C#
-React
-React Native
-ASP.NET Core
-Node.js
-HTML
-CSS
-Angular
-JavaScript
-WebRTC
-SignalR
-RabbitMQ
-Network protocols
-I thrive in creating robust and secure applications, leveraging my expertise in cyber security and networks. My goal is to contribute to innovative projects that push the boundaries of technology. Let's connect and collaborate!"
+I specialize in building robust, scalable, and secure software solutions across full-stack development, cloud systems, real-time communication, and AI-powered applications.
 
-Feel free to rearrange or modify the skills list t
+My core expertise includes C#, .NET, ASP.NET Core, Angular, React, React Native, Node.js, JavaScript, TypeScript, RabbitMQ, Redis, SignalR, WebRTC, SQL, PostgreSQL, MongoDB, Docker, Linux, Windows Server, and cloud platforms such as AWS, Azure, and GCP.
+
+In recent years, I have expanded deeply into artificial intelligence, focusing on LLMs, AI Agents, RAG, MCP, Prompt Engineering, Speech-to-Text, Text-to-Speech, real-time voice applications, and production-ready AI system design.
+
+I’m passionate about solving complex technical problems, designing reliable distributed systems, and building practical AI solutions that create real business value.
+
+Currently, I work as a Senior Software Engineer at TIBA Parking, where I contribute to cloud services, real-time systems, distributed architecture, integrations, and AI-driven innovation.
+
+Let’s connect, collaborate, and build meaningful technology together.
